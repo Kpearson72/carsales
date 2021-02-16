@@ -39,5 +39,8 @@ Resources:
 •	https://www.volkswagenag.com/presence/investorrelation/publications/interimreports/2020/Q3_2020_e.pdf
 •	https://www.yahoofinance.com
 
-
+![1 PPT](2020_Year_Of_Reckoning/Slide1.png)
+![2 PPT](2020_Year_Of_Reckoning/Slide2.png)
+![3 PPT](2020_Year_Of_Reckoning/Slide3.png)
+![4 PPT](2020_Year_Of_Reckoning/Slide4.png)
     
