@@ -50,13 +50,14 @@ How has Covid affect the general indicators of the country?
 
 We have selected three indicators that give us an idea of the general situation: Unemployment rate, Consumer sentiment about buying a car and interest rates. 
 ![6 PPT](2020_Year_Of_Reckoning/2020_Year_Of_Reckoning.png)
-Unemployment
+**Unemployment**
 
 As we can see, in the year 2019 the unemployment rate was flat or decreasing, always under 4%. Then on early March, started to grow above 4% to go suddenly to almost 15% at the beginnings of April, mostly because the lockdowns and restrictions in major cities and counties and the drop in every activity in the life.  
  
 The red dots marks two events that we consider very important in this time. the first one is the declaration of emergency of the US government on March 27th. The Second one is when the US reached the 100.000 deaths in May. 
 
 ![7 PPT](2020_Year_Of_Reckoning/Slide7.png)
+**Consumer sentiment**
 The second indicator that we could use is the sentiment about buying a car
 
 This data set is extracted from the University of Michigan Consumer Survey. The Surveys of Consumers are conducted by the Survey Research Center, under the direction of Richard T. Curtin, at the University of Michigan. 
@@ -66,21 +67,25 @@ The Surveys of Consumers have proven to be an accurate indicator of the future c
 The Survey give us many dataset that we can use. In this case we have chosen the value “Good Times, Times are good” 
 
 ![8 PPT](2020_Year_Of_Reckoning/Slide8.png)
-The third indicator, interest rates, is not an indicator or a value per se because is arbitrary set by the Federal Reserve,  but can be used as it for the general situation of the economy. 
+**Car and interest rates**
+
+The third indicator, interest rates, is not an indicator or a value because it is an arbitrary number set by the Federal Reserve,  but it can be used as an indicator of what state the economy is in.  
 
 The U.S. Congress established three key objectives for monetary policy in the Federal Reserve Act: maximizing employment, stabilizing prices, and moderating long-term interest rates. 
 
 
-So, the Fed is an independent institution but works with the government to get it goals. The drops or rises of the interest rates are used to keep the economy flowing. Usually when the interest rates drop, the demand rise... But, is that true in this case?
+So, the Fed is an independent institution but works with the government to get it goals. The Fed's ability to increase and decrease interest rates is a tool used to keep the economy flowing. Usually when the interest rates drop, the demand rise... But, is that true in this case?
 
-So, how does it the consumers? 
 
 ![9 PPT](2020_Year_Of_Reckoning/Slide9.png)
 ![10 PPT](2020_Year_Of_Reckoning/Slide10.png)
 As you can see from the graph, the top 5 brands are Lincoln, Volvo, Mazda, Bentley, and Tesla  
 
 ![11 PPT](2020_Year_Of_Reckoning/Slide11.png)
+
+
 Moving along to consumer sentiment 
+
 ![12 PPT](2020_Year_Of_Reckoning/Slide12.png)
 Effect on the Stock Market:
 We’ve seen the trends for COVID, unemployment, interest rates, and consumer sentiment.  All are factors in stock market performance but we’re going to zero in on consumer sentiment.
@@ -96,7 +101,7 @@ Secondly the consumer is a retail stock investor. How they “feel” about a co
  
 To more or less degree each of the auto group stock price indexes tracked consumer sentiment.  We’ve marked two significant events by red squares. The first is the signing of the stimulus package and the second is hitting 100,000 death milestone. 
  
-While consumer sentiment continued a nosedive after the stimulus package was passed the stock prices of each segment rallied…this implies that investor outlook had improved.  Fiscal and monetary policies would be deployed to support businesses.  Certainly, the SBA loan programs were probably relevant. It’s interesting that Economy and Ultra Luxury stock price trends have very similar shapes even though how economic factors affect these two types of car buyers couldn’t be more different. 
+While consumer sentiment continued a nosedive after the stimulus package was passed, the stock prices of each segment rallied…this implies that investor outlook had improved.  Fiscal and monetary policies would be deployed to support businesses.  Certainly, the SBA loan programs were probably relevant. It’s interesting that Economy and Ultra Luxury stock price trends have very similar shapes even though how economic factors affect these two types of car buyers couldn’t be more different. 
  
 Mid-Range index has less volatility. These auto manufacturers represent the largest number of car sales. The Luxury Index is our outlier and we will circle back to it in a moment.
 
@@ -138,10 +143,16 @@ The green line, representing the monthly Index of consumer sentiment for the buy
 The blue line represents the monthly Mid-Range Car Sales. In early March, began a fall in car sales for Mid-Range cars. Then a sharp increase from May to June. The line seems to increase a bit until August with a slight decrease until September.
 
  
-There are two observations here that are evident and that these three lines appear to have some correlation. As the RED Covid-19 line trend increases: Consumer Sentiment decreases without gaining back much of what it has lost from the original high point of 18. The U.S. Consumer sentiment for buying cars decreases because times are hard and money is tight due to the hardships instigated by COVID-19. The second observation represented here is that the Blue Mid-Range car sales line seems to parallel with the Green Consumer Sentiment line for the best time to buy a car. It shows that both decrease and increase at the same points in time. 
+There are two observations here that are evident and that these three lines appear to have some correlation. 
+
+* As the RED Covid-19 line trend increases... Consumer Sentiment decreases without gaining back much of what it has lost from the original high point of 18. The U.S. Consumer sentiment for buying cars decreases because times are hard and money is tight due to the hardships instigated by COVID-19. This is a **Negative Correlation** of\
+**-0.6677292147412445** and the negative number shows that the relationship between the two variables is that as one variable increases, the other decreases. It may not describe the cause but it shows an observable pattern.
+
+
+* The second observation represented here is that the Blue Mid-Range car sales line seems to parallel with the Green Consumer Sentiment line for the best time to buy a car. It shows that both decrease and increase at the same points in time. This has a **Weak Positive Correlation** value of\ 
+**0.4062742191517205**
  
-And so it appears that the Nationally Historic events due to COVID-19, have influenced
-Consumer Sentiment for Buying Vehicles such as Mid-Range Cars. …
+And so it appears that the Nationally Historic events due to COVID-19, shows a pattern that leans towards affecting the current situation of Consumer Sentiment for Buying Vehicles such as Mid-Range Cars. …
 
 
 
