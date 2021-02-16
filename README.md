@@ -4,8 +4,15 @@
 
 ##### *TEAM 6: Karen Pearson, Luis Fernando Ruiz, Phillecia Qualls, Dana Woodruff*
 
+![Covid_19 US](Images/Screen%20Shot%202021-02-15%20at%209.17.00%20PM.png)
+
 **Project Hypothesis**
 • COVID trend, Interest rate trend, Unemployment trend, and Consumer Sentiment trend were each visualized to easily observe which factors explain the change in consumer behavior towards car sales. Covid-19 is the precipitating event that influenced each factor. It's effect is examined in the following plots.
+
+Final Powerpoint presentation 
+
+* Observed impact of covid-19 in the United States along with historical markers.
+![Covid-19 bar graph](COVID_data/covid_us_barplot.png)
 
 * Total car sales trend was compared to the Consumer Sentiment trendline.
 ![Covid,Consumer Sentiment,Mid-Range Car line plot](Images/buying_conditionsVehicles.png)
