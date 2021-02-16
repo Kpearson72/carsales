@@ -69,6 +69,8 @@ The Survey give us many dataset that we can use. In this case we have chosen the
 The third indicator, interest rates, is not an indicator or a value per se because is arbitrary set by the Federal Reserve,  but can be used as it for the general situation of the economy. 
 
 The U.S. Congress established three key objectives for monetary policy in the Federal Reserve Act: maximizing employment, stabilizing prices, and moderating long-term interest rates. 
+
+
 So, the Fed is an independent institution but works with the government to get it goals. The drops or rises of the interest rates are used to keep the economy flowing. Usually when the interest rates drop, the demand rise... But, is that true in this case?
 
 So, how does it the consumers? 
@@ -113,27 +115,36 @@ Tesla’s stock value has increased tenfold in 2020 and this drove the luxury in
 To better understand if COVID-19 has affected the U.S. Car Industry…let’s summarize the data
 ![17 PPT](2020_Year_Of_Reckoning/Slide17.png)
 To better understand if COVID-19 has affected the U.S. Car Industry…let’s summarize the data.
+
  
 This is a line graph illustrating three lines that show the U.S. Buying Conditions for Vehicles and Mid-Range Car Sales versus U.S. Covid-19 Positive Cases Per Month.
+
  
 The dotted BLACK vertical lines represent negative historical markers: first-U.S. National Emergency Declaration, second - U.S. Leading the World in Positive Cases, third - more than 10 million Americans are unemployed, and fifth - More than five million Americans lost health insurance.
+
  
 The dotted Green vertical lines represent positive historical markers: one - when the first Stimulus Bill was Signed and two - when Airlines announced rules requiring face masks.
+
  
 To note, negative and positive historical markers could be considered as events that influenced consumer sentiment for buying vehicles.
+
  
 Here…The red line, representing the monthly # of Covid Cases shows an upward trend with two major peaks in April and July.
+
  
 The green line, representing the monthly Index of consumer sentiment for the buying conditions of vehicles, demonstrates a downward trend that shows a significant decrease from February to May and slightly less dramatic increase from May to October. The Index Calculations are derived from Surveys of Consumers taken by the University of Michigan and then calculated in a mathematical formula to come up with a score. Here we see a score per month.
+
  
 The blue line represents the monthly Mid-Range Car Sales. In early March, began a fall in car sales for Mid-Range cars. Then a sharp increase from May to June. The line seems to increase a bit until August with a slight decrease until September.
+
  
 There are two observations here that are evident and that these three lines appear to have some correlation. As the RED Covid-19 line trend increases: Consumer Sentiment decreases without gaining back much of what it has lost from the original high point of 18. The U.S. Consumer sentiment for buying cars decreases because times are hard and money is tight due to the hardships instigated by COVID-19. The second observation represented here is that the Blue Mid-Range car sales line seems to parallel with the Green Consumer Sentiment line for the best time to buy a car. It shows that both decrease and increase at the same points in time. 
  
 And so it appears that the Nationally Historic events due to COVID-19, have influenced
 Consumer Sentiment for Buying Vehicles such as Mid-Range Cars. …
 
-and here’s Luis to speak about our data methodology.
+
+
 
 ![18 PPT](2020_Year_Of_Reckoning/Slide18.png)
 ![19 PPT](2020_Year_Of_Reckoning/Slide19.png)
