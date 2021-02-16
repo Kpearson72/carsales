@@ -27,8 +27,7 @@ Final Powerpoint presentation
 
 ![car sales trend](Images/Consumer%20and%20Segment%20Trend%20Comparison.png)
    
-Datasets
- 	The following are our references that were used to analyze our data.
+Resources:
 •	https://www.truecar.com/prices-new
 •	https://www.goodcarbadcar.net/
 •	https://global.toyota/en/ir/library/sec/
